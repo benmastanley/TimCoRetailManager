@@ -16,7 +16,7 @@ namespace TRMDesktopUI
         {
             Initialize();
         }
-
+        
         protected override void Configure()
         {
             _container.Instance(_container);
